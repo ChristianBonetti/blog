@@ -1,0 +1,6 @@
+.imagemCadastro {
+  background-image: url('https://i.imgur.com/u5wXtNc.jpg');
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

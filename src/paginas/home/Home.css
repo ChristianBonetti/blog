@@ -1,0 +1,17 @@
+.texto {
+  text-align: center;
+}
+
+.alinhamento {
+  display: flex;
+}
+
+.outlinedButton {
+  border-color: #fff !important;
+  color: #fff !important;
+}
+
+.outlinedButton:hover {
+  background-color: #fff !important;
+  color: #385cb1 !important
+}
